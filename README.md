@@ -21,7 +21,7 @@ The dashboard provides insights into revenue, order trends, delivery performance
 
 ## 📊 Dashboard Preview
 
-![Dashboard](Screenshot%202026-06-24%20221946.png)
+![Dashboard](Dashboard_fnp.png)
 
 ---
 
