@@ -1,0 +1,2 @@
+# FNP-Sales-Analysis-Excel
+Interactive Sales Dashboard built using Microsoft Excel
